@@ -19,5 +19,6 @@ If the user does not confirm a criteria prompt, then that criteria will not appe
 When all prompts are answered the password is generated and displayed in the text area in place of "Your Secure Password".
 If the user does not confirm any of the criteria prompts, the user will be alerted with a message informing them they need to choose a criteria for a password to be created.
 
-The following image demonstrates the application functionality:
-![password_screenshots](./Assets/)
+The following images demonstrates the application functionality:
+![password_demo_screenshots](./Assets/screenshot.jpeg)
+There are 7 screenshots included in the file.
