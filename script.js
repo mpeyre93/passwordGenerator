@@ -120,7 +120,8 @@ function generatePassword(){
   //possible array variables
   var possibleArray = [];
 
-  //picking random array with confirmed criteria
+
+  //loop for random array with confirmed criteria 
     for(var i = 0; i < enter; i++){
       var pickPossibleElements = possibleElements[Math.floor(Math.random()* possibleElements.length)];
       possibleArray.push(pickPossibleElements);
