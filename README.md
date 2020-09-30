@@ -21,6 +21,6 @@ If the user does not confirm any of the criteria prompts, the user will be alert
 
 The following images demonstrates the application functionality:
 ![password_demo_screenshots](./Assets/screenshot.jpeg)
-There are 7 screenshots included in the file.
+There are 7 screenshots included in the file. Screenshots also located in Asserts folder if link does not work
 
 Link to application -  (https://mpeyre93.github.io/passwordGenerator/)
