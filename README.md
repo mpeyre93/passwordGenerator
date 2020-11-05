@@ -20,7 +20,7 @@ When all prompts are answered the password is generated and displayed in the tex
 If the user does not confirm any of the criteria prompts, the user will be alerted with a message informing them they need to choose a criteria for a password to be created.
 
 The following images demonstrates the application functionality:
-![password_demo_screenshots](/Images/screenshot.jpeg?raw=true)
+![password_demo_screenshots](/Images/screenshot.png?raw=true)
 There are 7 screenshots included in the Images file.
 
 Link to application -  (https://mpeyre93.github.io/passwordGenerator/)
